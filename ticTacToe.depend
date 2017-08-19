@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1503048435 source:c:\users\user\documents\c_projects\tictactoe\main.c
+	"ticTacToeHead.h"
+
+1503048435 c:\users\user\documents\c_projects\tictactoe\tictactoehead.h
+	<stdio.h>
+	<stdlib.h>
+
